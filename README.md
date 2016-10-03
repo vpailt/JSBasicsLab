@@ -1,4 +1,4 @@
-# JSBasicsLab
+# JSBasicsLab[![Build Status](https://travis-ci.org/ULH-WebDevelopment/JSBasicsLab.svg?branch=master)](https://travis-ci.org/ULH-WebDevelopment/JSBasicsLab)
 
 Ce projet est principalement constitué d'un fichier de tests (`test/js_basics/index.js`) qui s'applique sur un ensemble de fonctions (`src/js_basics/index.js`). Les tests sont écrits, mais le corps des fonctions testées est vide.
 
@@ -15,6 +15,7 @@ Ce projet est principalement constitué d'un fichier de tests (`test/js_basics/i
 ## Fin du travail
 
 Quand tous les tests passent et que les modifications sont enregistrées (avec des `commit`) :
-1. Associez votre compte GitHub à la platforme d'intégration continue (Travis CI)[https://travis-ci.org/]
+
+1. Associez votre compte GitHub à la platforme d'intégration continue [Travis CI](https://travis-ci.org/)
 2. publiez votre projet : `git push`
-3. créez un (pull request)[https://help.github.com/articles/about-pull-requests/] pour que je puisse évaluer votre travail.
+3. créez un [pull request](https://help.github.com/articles/about-pull-requests/) pour que je puisse évaluer votre travail.
